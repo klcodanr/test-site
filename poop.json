@@ -1,0 +1,12 @@
+---
+layout: default
+title: 'Here is my title!'
+tags:
+  - fuck
+  - me
+summary: 'onions are cool'
+---
+
+{
+  Here is some cool stuff
+}
