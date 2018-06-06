@@ -5,4 +5,4 @@ Just a test site
 
 Isn't it so cool!
 
-[another file](docs/another.md)
+[another file](docs/ANOTHER.md)
